@@ -1,10 +1,10 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>DevOps class room Learning</h1>
+    <h1>DevOps class room Learning BY Dinesh</h1>
     <p>Please fill in this form</p>
     <hr>
      
-    <label for="Name"><b>Enter your good name Name</b></label>
+    <label for="Name"><b>Enter name Name</b></label>
     <input type="text" placeholder="Enter Names" name="Name" id="Name" required>
     <br>
     
